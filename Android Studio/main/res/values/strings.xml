@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">T-PLUS</string>
+
+
+    <string name="btn_sesion">Iniciar Sesion</string>
+    <string name="btn_registrarse">Registrarse</string>
+
+    <string name="txtr_nombre">Nombre</string>
+    <string name="txtr_apellido">Apellido</string>
+    <string name="txtr_contraseña">Correo electronico</string>
+    <string name="txtr_Confcontraseña">Confirmar Contraseña</string>
+    <string name="txtr_confirmar">Contraseña</string>
+
+
+</resources>
